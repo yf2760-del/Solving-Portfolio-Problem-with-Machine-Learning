@@ -20,14 +20,14 @@ In the numerical implementation, I employed **deep learning** techniques to solv
 
 ## Folder Structure
 
-- `data/`: input functions and sample configurations  
-- `model/`: DeepONet architecture and training setup  
-- `results/`: learned operators and evaluation metrics  
-- `report.pdf`: full thesis write-up with theory, methods, and results  
+- `main_notebook.ipynb`: all implementation steps including problem setup, DeepONet training, and result visualization
+- `report.pdf`: full thesis write-up with theory, methods, and results
+- `results/`: includes loss curve and 3D plot of the learned value function
+
 
 ## Status
 
-Project completed in June 2025 as part of my Bachelor's thesis at [Your University Name].
+Project completed in April 2025 as part of my Bachelor's thesis at New York University.
 
 ---
 
