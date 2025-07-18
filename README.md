@@ -22,7 +22,6 @@ In the numerical implementation, I employed **deep learning** techniques to solv
 
 - `main_notebook.ipynb`: all implementation steps including problem setup, DeepONet training, and result visualization
 - `report.pdf`: full thesis write-up with theory, methods, and results
-- `results/`: includes loss curve and 3D plot of the learned value function
 
 
 ## Status
